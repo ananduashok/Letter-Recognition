@@ -1,8 +1,8 @@
 # Letter-Recognition
-Letter Recognition - Capstone Project
-Name: Anandu O A
-Org: Entri Elevate
-Date: 20/03/2025
+Letter Recognition - Capstone Project  
+Name: Anandu O A  
+Org: Entri Elevate  
+Date: 20/03/2025  
 
 Objective
 The objective is to identify each of a large number of black-and-white rectangular pixel displays as one of the 26 capital letters in the English alphabet. The character images were based on 20 different fonts and each letter within these 20 fonts was randomly distorted to produce a file of 20,000 unique stimuli. Each stimulus was converted into 16 primitive numerical attributes (statistical moments and edge counts) which were then scaled to fit into a range of integer values from 0 through 15 (features). We train on the first 14000 items and then use the resulting model to predict the letter category for the remaining 6000.
@@ -24,7 +24,8 @@ Variable Info
 14.	x-ege	mean edge count left to right	    (integer)  
 15.	xegvy	correlation of x-ege with y	    (integer)  
 16.	y-ege	mean edge count bottom to top	    (integer)  
-17.	yegvx	correlation of y-ege with x	    (integer)  
+17.	yegvx	correlation of y-ege with x	    (integer)    
+
 Data source
 Source: UCI Machine Learning Repository
 Dataset-link: https://archive.ics.uci.edu/dataset/59/letter+recognition
