@@ -26,6 +26,6 @@ Variable Info
 16.	y-ege	mean edge count bottom to top	    (integer)  
 17.	yegvx	correlation of y-ege with x	    (integer)    
 
-Data source
-Source: UCI Machine Learning Repository
-Dataset-link: https://archive.ics.uci.edu/dataset/59/letter+recognition
+Data source  
+Source: UCI Machine Learning Repository  
+Dataset-link: https://archive.ics.uci.edu/dataset/59/letter+recognition  
